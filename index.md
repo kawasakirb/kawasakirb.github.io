@@ -1,46 +1,23 @@
 ---
 layout: page
-title: Hello World!
+title: Welcome to kawasaki.rb!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+# ABOUT
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Kawasaki.rbは川崎周辺のRuby技術者たちが集まり、Rubyに関する何かをする地域Rubyistコミュニティです。
+最近は、パーフェクトRubyの読書会を中心に開催しています。
 
-## Update Author Attributes
+毎月第4水曜日に川崎駅近辺で活動しています。
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+[Google group](https://groups.google.com/forum/#!forum/kawasakirb)、[Facebook Group](https://www.facebook.com/groups/258704250945432/)もありますので、よければ登録してください。
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+最近の開催の模様は[blog記事](http://chezou.wordpress.com/tag/kawasaki-rb/)にまとめてありますので、ご参照ください。
+(そのうち、こちらに記事を移すと思います)
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+# EVENTS
 
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+イベントは[Doorkeeper](http://kawasakirb.doorkeeper.jp/)で、募集しています。
+過去の開催についても、情報が乗っています。
