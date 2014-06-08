@@ -1,0 +1,14 @@
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript" src="http://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+  Hatena.Star.Token = '{{ site.hatena_star_token }}';
+  Hatena.Star.EntryLoader.headerTagAndClassName = ['div','hatena-star'];
+</script>
