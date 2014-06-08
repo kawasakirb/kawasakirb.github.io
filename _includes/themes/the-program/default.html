@@ -51,6 +51,12 @@
 						<li class="twitter"><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">twitter.com/{{ site.author.twitter }}</a></li>
 						<li class="rss"><a href="http://feeds.feedburner.com/{{ site.author.feedname }}">Subscribe to RSS Feed</a></li>
 					</ul>
+					<h4>Latest Posts</h4>
+					<ul>
+					{% for post in site.posts limit:10 %}
+						<li><a href="{{post.url}}">{{post.title}}</a></li>
+					{% endfor %}
+					</ul>
 				</div><!-- misc -->
 				<p class="licence">
 					Theme: <a href="http://layouts-the.me">the_minimum</a> based on <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
