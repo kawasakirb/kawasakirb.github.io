@@ -4,13 +4,13 @@
 			<header>
 				<div class="unit-head">
 					<div class="unit-inner unit-head-inner">
-						<h1 class="h2 entry-title">{{ page.title }}</h1>
+						<h1 class="h2 entry-title"><a href="{{ site.url }}" style="border: none">{{ page.title }}</a></h1>
 					</div><!-- unit-inner -->
 				</div><!-- unit-head -->
-				{% include social.html %}
 			</header>
 
 			<div class="bd">
+				{% include social.html %}
 				<div class="entry-content">
 					{{ content }}
 					<div class="meta">
