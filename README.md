@@ -1,5 +1,7 @@
 # kawasakirb.github.io
 
+![](https://travis-ci.org/kawasakirb/kawasakirb.github.io.svg?branch=master)
+
 kawasakirb.github.ioのサイトです
 
 ## 記事を待ってます！
