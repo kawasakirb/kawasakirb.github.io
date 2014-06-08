@@ -6,6 +6,7 @@ rvm:
   - 2.1.0
 before_script: "bundle show"
 script: "bundle exec jekyll build"
+
 env:
   global:
     secure: "X79C46PxsA8o3uquGQfQzQyv2mD4pqQttKZ9Fb1YgrHZs2HitLCIU/Q0Hzjtm4o0B7US9gbdQdMG7QeBGSO79zWtqkNFB0GXE+rLu/Uci7BPoBmdg2del2Q9fdeAPqqqbpI4s2PgzYZg5uU25ELQGRs9wiffiqox+o81CBdT63U="
