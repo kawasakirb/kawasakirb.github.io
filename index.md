@@ -28,4 +28,9 @@ Kawasaki.rbは川崎周辺のRuby技術者たちが集まり、Rubyに関する�
 また、idobataも試験的に使い始めています。一緒に雑談しましょう。
 ルームは[こちら](https://idobata.io/organizations/kawasakirb/rooms/waiwai/join_request/72b8d2c9-cf57-43f0-97b0-778a9c6119d0)
 
+### MISC
+- 発起人: [@chezou](https://twitter.com/chezou)
+- 開催場所: [ミューザ川崎](http://www.kawasaki-sym-hall.jp/access/)を中心に川崎駅周辺
+- 特色: 初心者からコミッターまで幅広いですが、はじめて地域Rubyコミュニティに参加する人が多い気がします。
+
 {% include social.html %}
