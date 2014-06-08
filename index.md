@@ -18,9 +18,8 @@ Kawasaki.rbは川崎周辺のRuby技術者たちが集まり、Rubyに関する�
 # EVENTS
 
 イベントは[Doorkeeper](http://kawasakirb.doorkeeper.jp/)で、募集しています。
-過去の開催についても、情報が乗っています。
-
-# FOLLOW US
+また、Facebook groupやtwitter, google groupでも開催の案内をします。
+興味のある方はフォロー/グループ参加をお願いします。
 
 - [Facebook Group](https://www.facebook.com/groups/258704250945432/)
 - [Twitter](https://twitter.com/kawasakirb)
