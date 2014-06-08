@@ -10,3 +10,7 @@ script: "bundle exec jekyll build"
 env:
   global:
     secure: "X79C46PxsA8o3uquGQfQzQyv2mD4pqQttKZ9Fb1YgrHZs2HitLCIU/Q0Hzjtm4o0B7US9gbdQdMG7QeBGSO79zWtqkNFB0GXE+rLu/Uci7BPoBmdg2del2Q9fdeAPqqqbpI4s2PgzYZg5uU25ELQGRs9wiffiqox+o81CBdT63U="
+
+notifications:
+  webhooks:
+    - https://idobata.io/hook/e2c317f4-649d-411e-97f9-504ad4f5d3b2
