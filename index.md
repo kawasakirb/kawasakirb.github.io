@@ -24,3 +24,6 @@ Kawasaki.rbは川崎周辺のRuby技術者たちが集まり、Rubyに関する�
 - [Facebook Group](https://www.facebook.com/groups/258704250945432/)
 - [Twitter](https://twitter.com/kawasakirb)
 - [Google group](https://groups.google.com/forum/#!forum/kawasakirb)
+
+また、idobataも試験的に使い始めています。一緒に雑談しましょう。
+ルームは[こちら](https://idobata.io/organizations/kawasakirb/rooms/waiwai/join_request/72b8d2c9-cf57-43f0-97b0-778a9c6119d0)
