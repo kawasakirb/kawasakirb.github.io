@@ -7,6 +7,7 @@ pygments: true
 
 markdown: kramdown
 
+hatena_star_token: "7c49f4d96552172dc357736827e17a271df68586"
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
