@@ -1,0 +1,3 @@
+[submodule "meetups"]
+	path = meetups
+	url = https://github.com/kawasakirb/meetups.git
