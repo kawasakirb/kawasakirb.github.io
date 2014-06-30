@@ -57,6 +57,6 @@ Wordの日付管理いやだよね、というところからSphinxを使い始�
 <blockquote class="twitter-tweet" lang="ja"><p>今日のハイライト。lean analyticsの翻訳とrebuild.fmの書き起こしは <a href="https://twitter.com/harupong">@harupong</a> さんの仕事が暇になったから出ることらしい。Matzもだけど、仕事が暇になるのは世の中に貢献するようだ。定時退勤が生産性を、増している</p>&mdash; chezou (@chezou) <a href="https://twitter.com/chezou/statuses/481800456927080450">2014, 6月 25</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-あと、[kk_Atakaさんの提案](https://github.com/kawasakirb/meetups/pull/17)でmeetupsにちょっと手を加えると、kawasakirb.github.ioに[自己紹介が連動して出る](http://localhost:4000/meetups/members/gosyujin.html)ようになりました。
+あと、[kk_Atakaさんの提案](https://github.com/kawasakirb/meetups/pull/17)でmeetupsにちょっと手を加えると、kawasakirb.github.ioに[自己紹介が連動して出る]({{ site.url }}/meetups/members/gosyujin.html)ようになりました。
 Pull Requestお待ちしております！
 
