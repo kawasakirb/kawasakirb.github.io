@@ -18,7 +18,7 @@ tags: [ruby, kawasaki.rb]
 
 ## [@kosu9i](https://twitter/kosu9i)さん 「Rubyでも機械学習をしたい」
 
-タイトルは適当につけてしまいましたが、[第三回機械学習アルゴリズム実装会](http://mlhackathon.connpass.com/event/7115/)でRandom ForestをRubyで実装したよーという話や、[ai4r](http://www.ai4r.org/)の紹介をしていただきました。
+タイトルは適当につけてしまいましたが、[第三回機械学習アルゴリズム実装会](http://mlhackathon.connpass.com/event/7115/)でRandom Forestを[Rubyで実装したよー](https://github.com/kosu9i/MLL/blob/master/random_forest/rf.rb)という話や、[ai4r](http://www.ai4r.org/)の紹介をしていただきました。
 
 個人的には、まさか、数ある地域Rubyコミュニティの中で、kawasaki.rbでこの話をしていただいたのがとても嬉しかったです。
 [第6回](http://chezou.wordpress.com/2014/01/24/kawasaki-rb-006-%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-kwskrb/)でこの話をしましたよーとか、こちらから紹介させていただきました。
