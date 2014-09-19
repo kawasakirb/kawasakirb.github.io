@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "Kanagawa Ruby Kaigi 01"
-description: ""
-category: 
-tags: []
+layout: page
+title: Kanagawa Ruby Kaigi 01
+tagline: Supporting tagline
 ---
 {% include JB/setup %}
+{% include social.html %}
 
 2015年1月17日（土）に神奈川Ruby会議01を開催します。
 
@@ -34,6 +33,7 @@ RubyというとWeb系企業が主に使用しているイメージをお持ち�
 ## 協賛
 
 [Doorkeeper株式会社](http://www.doorkeeper.jp/)
+
 [株式会社 spice life](http://spicelife.jp/)
 
 ## 場所
@@ -56,4 +56,13 @@ RubyというとWeb系企業が主に使用しているイメージをお持ち�
 - ホールでの飲食はできません。
 - 会場内で発生したゴミは必ず各自でお持ち帰りください。
 - 会場内は禁煙です。予めご了承ください。
+
+## 運営チーム
+
+- 実行委員長 : 有賀 康顕
+- 会計 : 川口 克則
+- 会場 : 長住 直樹
+- るびまレポート : 徳田 農、三好 秀徳
+
+{% include social.html %}
 
