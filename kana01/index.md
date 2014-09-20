@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: kana01
 title: Kanagawa Ruby Kaigi 01
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
-{% include social.html %}
+
+# 神奈川Ruby会議01
 
 2015年1月17日（土）に神奈川Ruby会議01を開催します。
 
@@ -65,5 +66,4 @@ RubyというとWeb系企業が主に使用しているイメージをお持ち�
 - るびまレポート : 徳田 農、三好 秀徳
 - アドバイザ : 高橋 一生
 
-{% include social.html %}
 
