@@ -21,6 +21,14 @@ author :
   twitter : kawasakirb
   feedburner : feedname
 
+regional :
+  title : 神奈川Ruby会議01
+  author:
+    name : 神奈川Ruby会議01
+    twitter : kana01
+    github : kawasakirb
+    email_md5 : b67b36eebfde05189f5b02ded89375d4
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
