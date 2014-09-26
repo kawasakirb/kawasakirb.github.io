@@ -178,3 +178,21 @@ footer {
     left: inherit;
     right: 0px;
 }
+
+.ggmap {
+  position: relative;
+  padding-bottom: 56.25%;
+  paadding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+
+.ggmap iframe,
+.ggmapr object,
+.ggmap embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
