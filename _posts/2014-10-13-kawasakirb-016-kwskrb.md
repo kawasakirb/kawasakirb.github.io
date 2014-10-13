@@ -36,3 +36,5 @@ RubyKaigiでMatzがRubyにも型をつけるかも、という話が出ていま
 
 kawasaki.rb #017の[募集を開始しました](http://kawasakirb.doorkeeper.jp/events/16354)
 次回も皆さんのご参加をお待ちしております！
+
+<a class="doorkeeper-registration-widget" href="http://kawasakirb.doorkeeper.jp/events/16354">Kawasaki.rb #017</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
