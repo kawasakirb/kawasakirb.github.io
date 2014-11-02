@@ -37,7 +37,7 @@ RubyというとWeb系企業が主に使用しているイメージをお持ち�
 
 [Doorkeeper株式会社](http://www.doorkeeper.jp/)
 
-[株式会社 spice life](http://spicelife.jp/)、[tmix.jp](http://tmix.jp/)
+[tmix.jp](http://tmix.jp/) powerd by [株式会社 spice life](http://spicelife.jp/)
 
 ## 場所
 
