@@ -19,6 +19,14 @@ tags: [ruby]
 
 配列の展開に使う`*`って、ポインタっぽいよねという話をしました。
 
+そうそう、パーフェクトRubyがついに電子版が出たようです。[Kindle](http://www.amazon.co.jp/Ruby-Ruby-ebook/dp/B00P0UR1CA/)版と[epub](https://gihyo.jp/dp/ebook/2014/978-4-7741-6760-2)版があるようです。
+これで、雨の中鈍器を運ばずにすみますね！
+
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=chezou-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00P0UR1CA" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=chezou-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00P0UR1RU" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+
 ## [@kon_yu](https://twitter.com/kon_yu)さん 「HerokuでWBS砲を打ち返した話」
 
 <script async class="speakerdeck-embed" data-id="68bb412039c40132e0fe3e50d861d083" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
