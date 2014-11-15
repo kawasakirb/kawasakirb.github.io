@@ -272,3 +272,14 @@ table tr:hover {
   background: #bbd4ee;
   cursor:pointer;
 }
+
+.author_img {
+  width: 120px;
+  height: 120px;
+  float: left;
+  margin: 0 10px 20px 0;
+}
+
+.clearfix {
+  clear: both;
+}

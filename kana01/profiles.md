@@ -9,5 +9,39 @@ tagline: Supporting tagline
 
 ## @miyohide
 
-    SIerで働くRubyist。IT系勉強会において自分のメモ用にツイートしていたら、いつの間にか実況ツイート職人として認知される。Yokohama.rbの運営メンバーの一人。
+<img class="author_img" src="https://github.com/miyohide.png" />
 
+SIerで働くRubyist。IT系勉強会において自分のメモ用にツイートしていたら、いつの間にか実況ツイート職人として認知される。Yokohama.rbの運営メンバーの一人。
+
+<div class="clearfix" />
+
+## 湯村 翼(@yumu19)
+
+<img class="author_img" src="https://github.com/yumu19.png" />
+
+フリーランスエンジニア／PhysVis代表。北海道大学、東京大学大学院、JAXA宇宙科学研究所にて宇宙プラズマの研究に従事した後、東芝でホームネットワーク、KoozytでAR(Augmented Reality)や位置情報に関する研究開発を行う。
+
+2013年に独立し、2014年6月合同会社PhysVisを設立。iOSアプリケーションの開発や、Kinect等を用いたインタラクティブの開発を行っている。
+
+<div class="clearfix"/>
+
+## 川崎 禎紀(@kawasy)
+
+<img class="author_img" src="https://github.com/luvtechno.png" />
+
+東京大学情報理工学系研究科コンピュータ科学専攻修士課程を修了。外資系証券会社のテクノロジー部門を経て、2012年4月より[Wantedly](https://www.wantedly.com/)の開発・運営にCTOとして参画。
+
+中学生のころから、ゲームを作るために独学でBASICとC言語でプログラミングを覚える。大学在学中は、ユーザーインタフェースの研究を行う。Wantedlyを活用し、創業メンバーと出会い参画を決意。人の価値観や人生が変わるようなサービスを提供できるように、日々開発に没頭している。
+
+プロフィール: [https://www.wantedly.com/users/10599](https://www.wantedly.com/users/10599)
+
+<div class="clearfix" />
+
+
+## 立花 豊(@saboyutaka)
+
+<img class="author_img" src="https://github.com/saboyutaka.png" />
+
+北海道情報大学を卒業後、SIerでJavaを使ったWebアプリケーション開発に携わる。その後、フリーランスでRailsの受託開発を行う傍ら3ヶ月間渡米をし、ITカルチャーの視察を行った。帰国後のRubyKaigi2013での出会いが縁で2013年10月にピクシブ株式会社に入社した。現在はRuby on RailsのプロジェクトBOOTH.pmの開発を担当。好きなGemはTurbolinks。
+
+<div class="clearfix" />
