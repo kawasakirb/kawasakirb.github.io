@@ -50,6 +50,8 @@ RubyというとWeb系企業が主に使用しているイメージをお持ち�
 
 ## 協賛
 
+[一般社団法人 日本Rubyの会](http://ruby-no-kai.org/)
+
 [NTTアドバンステクノロジ株式会社](http://www.ntt-at.co.jp/) (会場・ネットワーク)
 
 [Doorkeeper株式会社](http://www.doorkeeper.jp/)
