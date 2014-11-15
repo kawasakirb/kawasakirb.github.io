@@ -45,3 +45,12 @@ SIerで働くRubyist。IT系勉強会において自分のメモ用にツイー�
 北海道情報大学を卒業後、SIerでJavaを使ったWebアプリケーション開発に携わる。その後、フリーランスでRailsの受託開発を行う傍ら3ヶ月間渡米をし、ITカルチャーの視察を行った。帰国後のRubyKaigi2013での出会いが縁で2013年10月にピクシブ株式会社に入社した。現在はRuby on RailsのプロジェクトBOOTH.pmの開発を担当。好きなGemはTurbolinks。
 
 <div class="clearfix" />
+
+
+## 前田 卓俊(@TakatoshiMaeda)
+
+<img class="author_img" src="https://github.com/takatoshimaeda.png" />
+
+商業高校を卒業後、SIerで医療情報システムの構築に従事。その後Web系スタートアップのCTOを経てクックパッド株式会社に入社。Ruby on Rails上でのWebアプリケーション開発のほか、Androidアプリケーション等サービス開発を行っている。
+
+<div class="clearfix" />
