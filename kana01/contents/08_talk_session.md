@@ -1,6 +1,6 @@
 ---
 layout: kana01
-title: Pair Programing
+title: トークセッション「Rubyと俺達の生存戦略」
 tagline: Supporting tagline
 ---
 {% include JB/setup %}

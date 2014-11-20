@@ -1,6 +1,6 @@
 ---
 layout: kana01
-title: Pair Programing
+title: 基調講演1
 tagline: Supporting tagline
 ---
 {% include JB/setup %}

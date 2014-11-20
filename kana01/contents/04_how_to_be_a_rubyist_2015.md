@@ -1,6 +1,6 @@
 ---
 layout: kana01
-title: Pair Programing
+title: 2015年版Rubyist入門
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
