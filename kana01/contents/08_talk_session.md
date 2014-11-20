@@ -13,7 +13,7 @@ Rubyを中心としたエコシステムはどんどん広がっていってい�
 
 # Speaker
 - [川崎 禎紀](/kana01/profiles.html#kawasy)
-- 白土 慧
+- [白土 慧](/kana01/profiles.html#keis)
 - [立花 豊](/kana01/profiles.html#saboyutaka)
 - 樽家 昌也
 - [前田 卓俊](/kana01/profiles.html#takatoshimaeda)
