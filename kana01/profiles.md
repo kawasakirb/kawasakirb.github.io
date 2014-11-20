@@ -50,3 +50,11 @@ SIerで働くRubyist。IT系勉強会において自分のメモ用にツイー�
 商業高校を卒業後、SIerで医療情報システムの構築に従事。その後Web系スタートアップのCTOを経てクックパッド株式会社に入社。Ruby on Rails上でのWebアプリケーション開発のほか、Androidアプリケーション等サービス開発を行っている。
 
 <div class="clearfix" />
+
+## 白土 慧(@kei_s)
+
+<img class="author_img" src="https://github.com/kei-s.png" />
+
+北海道大学大学院情報科学研究科博士前期課程修了後、ディスカバリーエンジンを開発するベンチャー勤務ののちフリーランスをへて、現在はメガネ・サングラス通販のスタートアップ Oh My Glasses に携わる。Ruby on RailsでのECサイト開発、システム運用を行っている。Web+DB PRESS誌にて一年間Rubyに関する連載を担当(共著)。好きな小説家は舞城王太郎。
+
+<div class="clearfix" />
