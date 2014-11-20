@@ -3,23 +3,17 @@ layout: kana01_page
 title: 登壇者情報
 ---
 
-## @miyohide
+# Keynote Speakers
 
-<img class="author_img" src="https://github.com/miyohide.png" />
+## 関 将俊(@m_seki)
 
-SIerで働くRubyist。IT系勉強会において自分のメモ用にツイートしていたら、いつの間にか実況ツイート職人として認知される。Yokohama.rbの運営メンバーの一人。
+<img class="author_img" src="https://github.com/seki.png" />
 
-<div class="clearfix"></div>
-
-## 湯村 翼(@yumu19)
-
-<img class="author_img" src="https://github.com/yumu19.png" />
-
-フリーランスエンジニア／PhysVis代表。北海道大学、東京大学大学院、JAXA宇宙科学研究所にて宇宙プラズマの研究に従事した後、東芝でホームネットワーク、KoozytでAR(Augmented Reality)や位置情報に関する研究開発を行う。
-
-2013年に独立し、2014年6月合同会社PhysVisを設立。iOSアプリケーションの開発や、Kinect等を用いたインタラクティブの開発を行っている。
+プログラマ。Rubyコミッタ。ERB, dRuby, Rindaの作者。ポケモンWCS2010栃木県代表(カード部門)。オブジェクト指向、分散システム、eXtremeProgrammingに明るい。2006年以降の各RubyKaigiで講演。主な著作 The dRuby Book (The Pragmatic Programmers社)(絶版)、プログラマが知るべき97のこと (ロールプレイングゲーム)。
 
 <div class="clearfix"></div>
+
+# Talk Session Speakers
 
 ## 川崎 禎紀(@kawasy)
 
@@ -33,6 +27,13 @@ SIerで働くRubyist。IT系勉強会において自分のメモ用にツイー�
 
 <div class="clearfix"></div>
 
+## 白土 慧(@kei_s)
+
+<img class="author_img" src="https://github.com/kei-s.png" />
+
+北海道大学大学院情報科学研究科博士前期課程修了後、ディスカバリーエンジンを開発するベンチャー勤務ののちフリーランスをへて、現在はメガネ・サングラス通販のスタートアップ Oh My Glasses に携わる。Ruby on RailsでのECサイト開発、システム運用を行っている。Web+DB PRESS誌にて一年間Rubyに関する連載を担当(共著)。好きな小説家は舞城王太郎。
+
+<div class="clearfix"></div>
 
 ## 立花 豊(@saboyutaka)
 
@@ -51,10 +52,21 @@ SIerで働くRubyist。IT系勉強会において自分のメモ用にツイー�
 
 <div class="clearfix"></div>
 
-## 白土 慧(@kei_s)
+## @miyohide
 
-<img class="author_img" src="https://github.com/kei-s.png" />
+<img class="author_img" src="https://github.com/miyohide.png" />
 
-北海道大学大学院情報科学研究科博士前期課程修了後、ディスカバリーエンジンを開発するベンチャー勤務ののちフリーランスをへて、現在はメガネ・サングラス通販のスタートアップ Oh My Glasses に携わる。Ruby on RailsでのECサイト開発、システム運用を行っている。Web+DB PRESS誌にて一年間Rubyに関する連載を担当(共著)。好きな小説家は舞城王太郎。
+SIerで働くRubyist。IT系勉強会において自分のメモ用にツイートしていたら、いつの間にか実況ツイート職人として認知される。Yokohama.rbの運営メンバーの一人。
 
 <div class="clearfix"></div>
+
+## 湯村 翼(@yumu19)
+
+<img class="author_img" src="https://github.com/yumu19.png" />
+
+フリーランスエンジニア／PhysVis代表。北海道大学、東京大学大学院、JAXA宇宙科学研究所にて宇宙プラズマの研究に従事した後、東芝でホームネットワーク、KoozytでAR(Augmented Reality)や位置情報に関する研究開発を行う。
+
+2013年に独立し、2014年6月合同会社PhysVisを設立。iOSアプリケーションの開発や、Kinect等を用いたインタラクティブの開発を行っている。
+
+<div class="clearfix"></div>
+
