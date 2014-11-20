@@ -1,11 +1,7 @@
 ---
-layout: kana01
-title: Profiles
-tagline: Supporting tagline
+layout: kana01_page
+title: 登壇者情報
 ---
-{% include JB/setup %}
-
-# 発表者情報
 
 ## @miyohide
 

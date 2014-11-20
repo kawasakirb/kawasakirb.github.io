@@ -1,12 +1,8 @@
 ---
-layout: kana01
+layout: kana01_page
 title: 基調講演1
-tagline: Supporting tagline
+tagline: (15:40〜16:10)
 ---
-{% include JB/setup %}
 
-
-# 基調講演1 （15:40 〜 16:10）
-
-## Speaker
+# Speaker
 - 樽家 昌也

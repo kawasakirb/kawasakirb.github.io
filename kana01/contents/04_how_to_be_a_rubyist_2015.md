@@ -1,12 +1,8 @@
 ---
-layout: kana01
+layout: kana01_page
 title: 2015年版Rubyist入門
-tagline: Supporting tagline
+tagline: (15:00〜15:30)
 ---
-{% include JB/setup %}
 
-
-# 2015年版Rubyist入門 （15:00 〜 15:30）
-
-## Speaker
+# Speaker
 - 高橋 征義
