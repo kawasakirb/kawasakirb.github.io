@@ -4,6 +4,7 @@ title: 登壇者情報
 ---
 
 # Keynote Speakers
+
 ## 関 将俊(@m_seki)
 
 <img class="author_img" src="https://github.com/seki.png" />
@@ -13,6 +14,43 @@ title: 登壇者情報
 <div class="clearfix"></div>
 
 # Talk Session Speakers
+
+## 川崎 禎紀(@kawasy)
+
+<img class="author_img" src="https://github.com/luvtechno.png" />
+
+東京大学情報理工学系研究科コンピュータ科学専攻修士課程を修了。外資系証券会社のテクノロジー部門を経て、2012年4月より[Wantedly](https://www.wantedly.com/)の開発・運営にCTOとして参画。
+
+中学生のころから、ゲームを作るために独学でBASICとC言語でプログラミングを覚える。大学在学中は、ユーザーインタフェースの研究を行う。Wantedlyを活用し、創業メンバーと出会い参画を決意。人の価値観や人生が変わるようなサービスを提供できるように、日々開発に没頭している。
+
+プロフィール: [https://www.wantedly.com/users/10599](https://www.wantedly.com/users/10599)
+
+<div class="clearfix"></div>
+
+## 白土 慧(@kei_s)
+
+<img class="author_img" src="https://github.com/kei-s.png" />
+
+北海道大学大学院情報科学研究科博士前期課程修了後、ディスカバリーエンジンを開発するベンチャー勤務ののちフリーランスをへて、現在はメガネ・サングラス通販のスタートアップ Oh My Glasses に携わる。Ruby on RailsでのECサイト開発、システム運用を行っている。Web+DB PRESS誌にて一年間Rubyに関する連載を担当(共著)。好きな小説家は舞城王太郎。
+
+<div class="clearfix"></div>
+
+## 立花 豊(@saboyutaka)
+
+<img class="author_img" src="https://github.com/saboyutaka.png" />
+
+北海道情報大学を卒業後、SIerでJavaを使ったWebアプリケーション開発に携わる。その後、フリーランスでRailsの受託開発を行う傍ら3ヶ月間渡米をし、ITカルチャーの視察を行った。帰国後のRubyKaigi2013での出会いが縁で2013年10月にピクシブ株式会社に入社した。現在はRuby on RailsのプロジェクトBOOTH.pmの開発を担当。好きなGemはTurbolinks。
+
+<div class="clearfix"></div>
+
+
+## 前田 卓俊(@TakatoshiMaeda)
+
+<img class="author_img" src="https://github.com/takatoshimaeda.png" />
+
+商業高校を卒業後、SIerで医療情報システムの構築に従事。その後Web系スタートアップのCTOを経てクックパッド株式会社に入社。Ruby on Rails上でのWebアプリケーション開発のほか、Androidアプリケーション等サービス開発を行っている。
+
+<div class="clearfix"></div>
 
 ## @miyohide
 
@@ -32,40 +70,3 @@ SIerで働くRubyist。IT系勉強会において自分のメモ用にツイー�
 
 <div class="clearfix"></div>
 
-## 川崎 禎紀(@kawasy)
-
-<img class="author_img" src="https://github.com/luvtechno.png" />
-
-東京大学情報理工学系研究科コンピュータ科学専攻修士課程を修了。外資系証券会社のテクノロジー部門を経て、2012年4月より[Wantedly](https://www.wantedly.com/)の開発・運営にCTOとして参画。
-
-中学生のころから、ゲームを作るために独学でBASICとC言語でプログラミングを覚える。大学在学中は、ユーザーインタフェースの研究を行う。Wantedlyを活用し、創業メンバーと出会い参画を決意。人の価値観や人生が変わるようなサービスを提供できるように、日々開発に没頭している。
-
-プロフィール: [https://www.wantedly.com/users/10599](https://www.wantedly.com/users/10599)
-
-<div class="clearfix"></div>
-
-
-## 立花 豊(@saboyutaka)
-
-<img class="author_img" src="https://github.com/saboyutaka.png" />
-
-北海道情報大学を卒業後、SIerでJavaを使ったWebアプリケーション開発に携わる。その後、フリーランスでRailsの受託開発を行う傍ら3ヶ月間渡米をし、ITカルチャーの視察を行った。帰国後のRubyKaigi2013での出会いが縁で2013年10月にピクシブ株式会社に入社した。現在はRuby on RailsのプロジェクトBOOTH.pmの開発を担当。好きなGemはTurbolinks。
-
-<div class="clearfix"></div>
-
-
-## 前田 卓俊(@TakatoshiMaeda)
-
-<img class="author_img" src="https://github.com/takatoshimaeda.png" />
-
-商業高校を卒業後、SIerで医療情報システムの構築に従事。その後Web系スタートアップのCTOを経てクックパッド株式会社に入社。Ruby on Rails上でのWebアプリケーション開発のほか、Androidアプリケーション等サービス開発を行っている。
-
-<div class="clearfix"></div>
-
-## 白土 慧(@kei_s)
-
-<img class="author_img" src="https://github.com/kei-s.png" />
-
-北海道大学大学院情報科学研究科博士前期課程修了後、ディスカバリーエンジンを開発するベンチャー勤務ののちフリーランスをへて、現在はメガネ・サングラス通販のスタートアップ Oh My Glasses に携わる。Ruby on RailsでのECサイト開発、システム運用を行っている。Web+DB PRESS誌にて一年間Rubyに関する連載を担当(共著)。好きな小説家は舞城王太郎。
-
-<div class="clearfix"></div>
