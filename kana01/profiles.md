@@ -3,6 +3,17 @@ layout: kana01_page
 title: 登壇者情報
 ---
 
+# Keynote Speakers
+## 関 将俊(@m_seki)
+
+<img class="author_img" src="https://github.com/seki.png" />
+
+プログラマ。Rubyコミッタ。ERB, dRuby, Rindaの作者。ポケモンWCS2010栃木県代表(カード部門)。オブジェクト指向、分散システム、eXtremeProgrammingに明るい。2006年以降の各RubyKaigiで講演。主な著作 The dRuby Book (The Pragmatic Programmers社)(絶版)、プログラマが知るべき97のこと (ロールプレイングゲーム)。
+
+<div class="clearfix"></div>
+
+# Talk Session Speakers
+
 ## @miyohide
 
 <img class="author_img" src="https://github.com/miyohide.png" />
