@@ -1,6 +1,6 @@
 ---
 layout: kana01
-title: Kanagawa Ruby Kaigi 01
+title: 神奈川Ruby会議01
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
