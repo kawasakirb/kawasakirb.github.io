@@ -1,7 +1,6 @@
 ---
 layout: kana01
-title: 神奈川Ruby会議01
-tagline: Supporting tagline
+title: Home
 ---
 {% include JB/setup %}
 
