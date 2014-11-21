@@ -5,6 +5,19 @@ title: 登壇者情報
 
 # Keynote Speakers
 
+## 高橋 征義(@takahashim)
+
+<img class="author_img" src="https://github.com/takahashim.png" />
+
+<div class="clearfix"></div>
+
+## 樽家 昌也(@taru)
+
+<img class="author_img" src="https://github.com/tarui.png" />
+
+<div class="clearfix"></div>
+
+
 ## 関 将俊(@m_seki)
 
 <img class="author_img" src="https://github.com/seki.png" />
