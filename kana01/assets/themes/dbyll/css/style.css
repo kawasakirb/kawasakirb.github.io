@@ -126,6 +126,7 @@ article.home h3 a,
 article.home h4 a {
   color: #f2756a;
 }
+
 article.home h1 a:hover,
 article.home h2 a:hover,
 article.home h3 a:hover,
@@ -227,7 +228,7 @@ table th {
 }
 
 table th:first-child {
-  border-radius: 5px 0 0 0; 
+  border-radius: 5px 0 0 0;
 }
 
 table th:last-child {

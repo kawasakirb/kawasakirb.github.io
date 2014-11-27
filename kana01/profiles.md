@@ -15,6 +15,8 @@ title: 登壇者情報
 
 <img class="author_img" src="https://github.com/tarui.png" />
 
+大阪大学大学院工学研究科情報システム工学専攻博士前期課程修了、株式会社東芝勤務。その傍らで2010年頃よりRubyへのContributeを始めコミッタになる。主にWindows, GC, Thread周りで再現性が低いバグの対応や、性能改善を行っている。アプリケーションそのものよりツール作りに情熱を燃やす情報発信下手系エンジニア。No Tool, No Life.
+
 <div class="clearfix"></div>
 
 
