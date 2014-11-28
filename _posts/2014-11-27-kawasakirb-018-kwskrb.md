@@ -92,5 +92,5 @@ kawasaki.rbによくお越しいただいている[tarui](https://twitter.com/ta
 <script type="text/javascript">(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src='https://widget.pushbullet.com/embed.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b);})();</script>
 
 
-([kawasaki.rbのchannel](https://www.pushbullet.com/my-channel?tag=kwskrb)も作ってみました)
+([kawasaki.rbのchannel](https://www.pushbullet.com/channel?tag=kwskrb)も作ってみました)
 
