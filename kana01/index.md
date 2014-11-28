@@ -18,6 +18,18 @@ RubyというとWeb系企業が主に使用しているイメージをお持ち�
 
 皆さまのご来場を心よりお待ち申し上げます。
 
+## 申込
+
+12月中旬に募集開始予定です。募集人数は80名程度、参加費は1,000円を予定しています。
+Doorkeeperの[kawasaki.rbのコミュニティ](http://kawasakirb.doorkeeper.jp/)にて募集予定ですので、
+予めコミュニティに参加をしていただくと、案内を受け取ることができます。
+また、プッシュ通知サービス[PushBullet](https://www.pushbullet.com/)での通知も予定しています。よければ、Subscribeしてください。
+
+<a class="pushbullet-subscribe-widget" data-channel="kanagawaruby" data-widget="button" data-size="small"></a>
+<script type="text/javascript">(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src='https://widget.pushbullet.com/embed.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b);})();</script>
+
+また、同日に懇親会も予定しています。懇親会は神奈川Ruby会議01とは別イベントとして募集します。
+
 ## タイムテーブル
 
 |時間|内容|
@@ -40,12 +52,6 @@ RubyというとWeb系企業が主に使用しているイメージをお持ち�
 ## 登壇者紹介
 
 [登壇者情報](profiles.html)
-
-## 申込
-
-現在準備中です。募集人数は80名程度、参加費は1,000円程度を想定しています。
-
-また、同日に懇親会も予定しています。懇親会は神奈川Ruby会議01とは別イベントとなります。
 
 ## 協賛
 

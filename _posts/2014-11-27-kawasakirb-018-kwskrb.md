@@ -86,11 +86,10 @@ kawasaki.rbによくお越しいただいている[tarui](https://twitter.com/ta
 12月中旬に募集開始予定ですので、それまでに[Doorkeeperのkawasaki.rb]のコミュニティに登録くだされば、募集開始メールが届きます。
 また、[Rebuild.fmでも使われている](http://weblog.bulknews.net/post/103145494559/rebuild-fm-push-notifications)iOS/Android/Chrome対応のプッシュ通知アプリ、[Pushbullet](https://www.pushbullet.com/)での募集開始の通知も検討していますので、よければsubscribeしてください。
 
-下記をクリックするか、 [https://www.pushbullet.com/channel?tag=kanagawa_ruby](https://www.pushbullet.com/channel?tag=kanagawa_ruby) で `SUBSCRIBE` をクリックしてください。
+下記をクリックするか、 [https://www.pushbullet.com/channel?tag=kanagawaruby](https://www.pushbullet.com/channel?tag=kanagawaruby) で `SUBSCRIBE` をクリックしてください。
 
-<a class="pushbullet-subscribe-widget" data-channel="kanagawa_ruby" data-widget="button" data-size="small"></a>
+<a class="pushbullet-subscribe-widget" data-channel="kanagawaruby" data-widget="button" data-size="small"></a>
 <script type="text/javascript">(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src='https://widget.pushbullet.com/embed.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b);})();</script>
-
 
 ([kawasaki.rbのchannel](https://www.pushbullet.com/channel?tag=kwskrb)も作ってみました)
 
