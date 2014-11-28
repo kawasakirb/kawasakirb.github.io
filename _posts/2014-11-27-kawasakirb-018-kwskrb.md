@@ -27,6 +27,11 @@ tags: [ruby]
 
 Facebookが出しているReactの話
 
+### [@kk_Ataka](https://twitter.com/kk_Ataka)さん "jekyllドキュメント翻訳を継続するための取組"
+Tokyu 素振りにつき、資料は後日アップロードされると思います。
+
+ずっと継続されているJekyllのドキュメント翻訳の話です。
+
 ### [sylph01](https://twitter.com/s01)さん "RubyConfの話と遠隔監視ツールを改良した話"
 
 Ruby Conf
