@@ -9,6 +9,8 @@ title: 登壇者情報
 
 <img class="author_img" src="https://github.com/takahashim.png" />
 
+北海道大学で情報工学を専攻後、ネット・Web方面の小さな会社（どちらも現存しない）でプログラマとして勤務する傍ら、日本Rubyの会を設立、現在代表理事。2010年に株式会社達人出版会を創業。主な著書に『たのしいRuby』『Rails3レシピブック』（共著）、監修に『Rubyベストプラクティス』『小学生から楽しむ Rubyプログラミング』などがある。好きな作家は新井素子。
+
 <div class="clearfix"></div>
 
 ## 樽家 昌也(@taru)
