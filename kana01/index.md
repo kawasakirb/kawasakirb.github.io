@@ -20,15 +20,17 @@ RubyというとWeb系企業が主に使用しているイメージをお持ち�
 
 ## 申込
 
-12月中旬に募集開始予定です。募集人数は80名程度、参加費は1,000円を予定しています。
-Doorkeeperの[kawasaki.rbのコミュニティ](http://kawasakirb.doorkeeper.jp/)にて募集予定ですので、
-予めコミュニティに参加をしていただくと、案内を受け取ることができます。
-また、プッシュ通知サービス[PushBullet](https://www.pushbullet.com/)での通知も予定しています。よければ、Subscribeしてください。
+__12月14日(日) 21時頃に募集を開始する予定です。募集人数は70名、参加費は1,000円です。__
+
+- メールでの通知を希望する方
+  - Doorkeeperの[kawasaki.rbのコミュニティ](http://kawasakirb.doorkeeper.jp/)に登録いただくと、メールで募集開始の案内を受け取ることができます
+- プッシュ通知を希望する方
+  - プッシュ通知サービス[PushBullet](https://www.pushbullet.com/)で募集開始をお知らせします。iOS/Android/Chromeでアプリを入れてsubscribeしてください。([channel](https://www.pushbullet.com/channel?tag=kanagawaruby))
 
 <a class="pushbullet-subscribe-widget" data-channel="kanagawaruby" data-widget="button" data-size="small"></a>
 <script type="text/javascript">(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src='https://widget.pushbullet.com/embed.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b);})();</script>
 
-また、同日に懇親会も予定しています。懇親会は神奈川Ruby会議01とは別イベントとして募集します。
+また、同日に懇親会も予定しています。懇親会は神奈川Ruby会議01とは別イベントとしてDoorkeeperにて募集します。
 
 ## タイムテーブル
 
