@@ -6,7 +6,7 @@ title: Home
 
 # 神奈川Ruby会議01
 
-2015年1月17日（土）に神奈川Ruby会議01を開催します。
+2015年1月17日（土）に神奈川Ruby会議01([#kana01](https://twitter.com/search?f=realtime&q=%23kana01))を開催します。
 
 ## 開催趣旨
 
