@@ -28,7 +28,8 @@ tags: [ruby]
 Facebookが出しているReactの話
 
 ### [@kk_Ataka](https://twitter.com/kk_Ataka)さん "jekyllドキュメント翻訳を継続するための取組"
-Tokyu 素振りにつき、資料は後日アップロードされると思います。
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/42176075" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kk_Ataka/jekyll-42176075" title="Jekyllドキュメント翻訳活動振り返り" target="_blank">Jekyllドキュメント翻訳活動振り返り</a> </strong> from <strong><a href="//www.slideshare.net/kk_Ataka" target="_blank">kk_Ataka</a></strong> </div>
 
 ずっと継続されているJekyllのドキュメント翻訳の話です。
 
