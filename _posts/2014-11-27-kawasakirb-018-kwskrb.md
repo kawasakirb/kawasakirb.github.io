@@ -35,7 +35,6 @@ Facebookが出しているReactの話
 
 ### [sylph01](https://twitter.com/s01)さん "RubyConfの話と遠隔監視ツールを改良した話"
 
-Ruby Conf
 [こちら](https://github.com/sylph01/1126_kawasaki)にスライドが有ります
 
 
@@ -47,11 +46,20 @@ Ruby Conf
 ### [@1syo](https://twitter.com/1syo)さん "Testing Wrecker plugin with bats"
 
 Tokyuの素振りのため、資料はきっと後日上がるはず
+[2014/12/03追記] Tokyu版が上がっていたので追加しました。
+
+<script async class="speakerdeck-embed" data-id="a741d65059a001326f2a4e55f5ecb48c" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 [wrecker](http://wercker.com/)で[Bats](https://github.com/sstephenson/bats)を使う話しでした。
+
+
 
 ### @chezou "iruby notebook + nbviewerのススメ"
 
 Tokyuの素振りをしました
+Tokyu版の資料を貼っておきます。
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/42147157" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/chezou/recommendation-for-iruby" title="Recommendation for iruby #tqrk08" target="_blank">Recommendation for iruby #tqrk08</a> </strong> from <strong><a href="//www.slideshare.net/chezou" target="_blank">chezou</a></strong> </div>
 
 ### [@Tetsunari_Niina](https://twitter.com/Tetsunari_Niina)さん "32ちゃんねる"
 [中高生国際Rubyプログラミングコンテスト](http://www.mitaka.ne.jp/ruby/)の素振りをしてくれました。
@@ -60,6 +68,8 @@ Tokyuの素振りをしました
 
 ### [@harupong](https://twitter.com/harupong)さん "Pro Git 第2版はじめました"
 技術翻訳の活動やRebuild.fmの書き起こしで定評のあるharupongさんによる、[Pro Git第2版](https://github.com/progit/progit2-ja)の翻訳者募集のお知らせでした。
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/42168931" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/harupong/pro-git-2" title="Pro Git 第2版はじめました" target="_blank">Pro Git 第2版はじめました</a> </strong> from <strong><a href="//www.slideshare.net/harupong" target="_blank">harupong</a></strong> </div>
 
 見どころは
 
