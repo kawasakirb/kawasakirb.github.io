@@ -43,7 +43,7 @@ Facebookが出しているReactの話
 タイトルメモとりそこねました。
 [前回](http://www.best-teacher-inc.com/news/kawasaki-rb)話題となった、HerokuでパフォチューやSEOする話のまとめです。Herokuのイベントの素振りでした。
 
-### 2014/12/4 Salesforce World Tour Tokyo 2014 DevZoneの本番で使った資料
+#### 2014/12/4 Salesforce World Tour Tokyo 2014 DevZoneの本番で使った資料
 <script async class="speakerdeck-embed" data-slide="1" data-id="e3b645505d8e013232dc2e3489c2afa1" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### [@1syo](https://twitter.com/1syo)さん "Testing Wrecker plugin with bats"
