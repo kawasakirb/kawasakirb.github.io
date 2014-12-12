@@ -41,7 +41,7 @@ __12月14日(日) 21時頃に募集を開始する予定です。募集人数は
 |14:30|30分休憩|
 |15:00|[2015年版Rubyist入門](contents/04_how_to_be_a_rubyist_2015.html)|
 |15:30|神奈川県内Rubyコミュニティ紹介|
-|15:40|[基調講演1](contents/06_keynote1.html)|
+|15:40|[基調講演1「あるRubyistがCommitterになったその理由」](contents/06_keynote1.html)|
 |16:10|20分休憩|
 |16:30|[トークセッション「Rubyと俺達の生存戦略」](contents/08_talk_session.html)|
 |17:50|30分休憩|
