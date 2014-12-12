@@ -1,6 +1,6 @@
 ---
 layout: kana01_page
-title: 基調講演1
+title: 基調講演1「あるRubyistがCommitterになったその理由」
 tagline: (15:40〜16:10)
 ---
 
