@@ -15,7 +15,7 @@ Rubyを中心としたエコシステムはどんどん広がっていってい�
 - [川崎 禎紀](/kana01/profiles.html#kawasy)
 - [白土 慧](/kana01/profiles.html#keis)
 - [立花 豊](/kana01/profiles.html#saboyutaka)
-- 樽家 昌也
+- [樽家 昌也](/kana01/profiles.html#taru)
 - [前田 卓俊](/kana01/profiles.html#takatoshimaeda)
 - [@miyohide](/kana01/profiles.html#miyohide)
 - [湯村 翼](/kana01/profiles.html#yumu19)
