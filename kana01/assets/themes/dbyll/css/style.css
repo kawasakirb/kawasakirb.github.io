@@ -284,3 +284,18 @@ table tr:hover {
 .clearfix {
   clear: both;
 }
+
+.submit_button {
+  width: 250px;
+  padding: 10px;
+  margin: 30px auto;
+  font-size: 24px;
+  text-decoration: none !important;
+  display: block;
+  text-align: center;
+  color: #fff;
+  background-color: #D64555;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+}

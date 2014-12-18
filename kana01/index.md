@@ -6,6 +6,8 @@ title: Home
 
 # 神奈川Ruby会議01
 
+<a href="http://kawasakirb.doorkeeper.jp/events/18639" class="submit_button">参加登録はこちら</a>
+
 2015年1月17日（土）に神奈川Ruby会議01([#kana01](https://twitter.com/search?f=realtime&q=%23kana01))を開催します。
 
 ## 開催趣旨
