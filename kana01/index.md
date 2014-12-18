@@ -24,7 +24,7 @@ RubyというとWeb系企業が主に使用しているイメージをお持ち�
 
 __12月14日(日) 21時頃に募集を開始する予定です。募集人数は70名、参加費は1,000円です。__
 
-[http://kawasakirb.doorkeeper.jp/events/18639](http://kawasakirb.doorkeeper.jp/events/18639)にて申し込みを開始しました。
+[Doorkeeper](http://kawasakirb.doorkeeper.jp/events/18639)にて申し込みを開始しました。
 
 
 - メールでの通知を希望する方
