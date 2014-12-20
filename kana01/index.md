@@ -8,6 +8,8 @@ title: Home
 
 <a href="http://kawasakirb.doorkeeper.jp/events/18639" class="submit_button">参加登録はこちら</a>
 
+<a href="http://kawasakirb.doorkeeper.jp/events/18701" class="submit_button">懇親会はこちら</a>
+
 2015年1月17日（土）に神奈川Ruby会議01([#kana01](https://twitter.com/search?f=realtime&q=%23kana01))を開催します。
 
 ## 開催趣旨
@@ -24,7 +26,9 @@ RubyというとWeb系企業が主に使用しているイメージをお持ち�
 
 [Doorkeeper](http://kawasakirb.doorkeeper.jp/events/18639)にて申し込みを開始しました。参加費は1000円です。
 
-また、同日に懇親会も予定しています。懇親会は神奈川Ruby会議01とは別イベントとしてDoorkeeperにて募集します。
+[懇親会](http://kawasakirb.doorkeeper.jp/events/18701)(5270円)の募集を開始しました。
+こちらも是非合わせて申し込みください。
+
 
 ## タイムテーブル
 
