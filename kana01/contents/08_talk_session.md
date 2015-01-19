@@ -22,3 +22,7 @@ Rubyを中心としたエコシステムはどんどん広がっていってい�
 
 # Organizer
 - 有賀 康顕
+
+# Slides & Video
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/YOwidw_RKd4?list=PLFhrObr2eydttZ1vfU1IrkSJZIhYcJ6TA" frameborder="0" allowfullscreen></iframe>

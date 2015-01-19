@@ -12,6 +12,12 @@ title: Home
 
 2015年1月17日（土）に神奈川Ruby会議01([#kana01](https://twitter.com/search?f=realtime&q=%23kana01))を開催します。
 
+## 講演動画集
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLFhrObr2eydttZ1vfU1IrkSJZIhYcJ6TA" frameborder="0" allowfullscreen></iframe>
+
+※高橋会長の2015年版Rubyist入門は、トラブルのため途中からの録画になっています。予めご了承ください
+
 ## 開催趣旨
 
 神奈川の地域RubyKaigi、神奈川Ruby会議01を2015年1月17日に開催いたします。
@@ -39,7 +45,7 @@ RubyというとWeb系企業が主に使用しているイメージをお持ち�
 |13:05|[ペアプロ大会](contents/02_pair_programing.html)|
 |14:30|30分休憩|
 |15:00|[2015年版Rubyist入門](contents/04_how_to_be_a_rubyist_2015.html)|
-|15:30|神奈川県内Rubyコミュニティ紹介|
+|15:30|[神奈川県内Rubyコミュニティ紹介](contents/05_community_talks.html)|
 |15:40|[基調講演1「あるRubyistがCommitterになったその理由」](contents/06_keynote1.html)|
 |16:10|20分休憩|
 |16:30|[トークセッション「Rubyと俺達の生存戦略」](contents/08_talk_session.html)|
