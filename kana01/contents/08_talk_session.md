@@ -25,4 +25,6 @@ Rubyを中心としたエコシステムはどんどん広がっていってい�
 
 # Slides & Video
 
+<script async class="speakerdeck-embed" data-id="8baf2770804e0132493e6ee13bfef9ea" data-ratio="1.33159947984395" src="//speakerdeck.com/assets/embed.js"></script>
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/YOwidw_RKd4?list=PLFhrObr2eydttZ1vfU1IrkSJZIhYcJ6TA" frameborder="0" allowfullscreen></iframe>
