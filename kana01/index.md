@@ -6,11 +6,7 @@ title: Home
 
 # 神奈川Ruby会議01
 
-<a href="http://kawasakirb.doorkeeper.jp/events/18639" class="submit_button">参加登録はこちら</a>
-
-<a href="http://kawasakirb.doorkeeper.jp/events/18701" class="submit_button">懇親会はこちら</a>
-
-2015年1月17日（土）に神奈川Ruby会議01([#kana01](https://twitter.com/search?f=realtime&q=%23kana01))を開催します。
+2015年1月17日（土）に神奈川Ruby会議01([#kana01](https://twitter.com/search?f=realtime&q=%23kana01))が開催されました。多数のご参加、ありがとうございました。
 
 ## 講演動画集
 
@@ -20,21 +16,11 @@ title: Home
 
 ## 開催趣旨
 
-神奈川の地域RubyKaigi、神奈川Ruby会議01を2015年1月17日に開催いたします。
+神奈川の地域RubyKaigi、神奈川Ruby会議01を2015年1月17日に開催しました。
 
 神奈川Ruby会議01のテーマは「Cross the border」です。
 
 RubyというとWeb系企業が主に使用しているイメージをお持ちの方が多いかもしれません。ですが実際は、様々な分野で多くの人がRubyに関わられています。この神奈川Ruby会議01では、ペアプログラミングや、トークセッションなどを通じて、Rubyに関わる多くの人と触れ合える機会を用意しています。
-
-皆さまのご来場を心よりお待ち申し上げます。
-
-## 申込
-
-[Doorkeeper](http://kawasakirb.doorkeeper.jp/events/18639)にて申し込みを開始しました。参加費は1000円です。
-
-[懇親会](http://kawasakirb.doorkeeper.jp/events/18701)(5270円)の募集を開始しました。
-こちらも是非合わせて申し込みください。
-
 
 ## タイムテーブル
 
@@ -53,8 +39,6 @@ RubyというとWeb系企業が主に使用しているイメージをお持ち�
 |18:10|[基調講演2「ロールプレイングゲーム2 真打(仮)」](contents/10_keynote2.html)|
 |18:40|閉会|
 
-
-また、終了後に懇親会も予定しています。
 
 ## 登壇者紹介
 
