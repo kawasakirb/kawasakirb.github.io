@@ -2,8 +2,8 @@
 layout: post
 title: "kawasaki.rb #020を開催しました #kwskrb"
 description: ""
-category:
-tags: []
+category: kawasakirb
+tags: [ruby, kawasaki.rb]
 ---
 {% include JB/setup %}
 
