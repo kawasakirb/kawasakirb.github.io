@@ -10,3 +10,4 @@ vendor/bundle
 
 .rbenv-version
 .rvmrc
+.ruby-version
