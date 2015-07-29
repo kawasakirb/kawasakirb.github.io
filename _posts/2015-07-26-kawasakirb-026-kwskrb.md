@@ -14,9 +14,13 @@ togetterのまとめは[こちら](http://togetter.com/li/851247)
 
 ## LT大会
 
-### LT from [@etmnk](https://twitter.com/etmnk)さん
+### ところで俺のruby力はこの1年でどのくらい向上したの？ from [@etmnk](https://twitter.com/etmnk)さん
+
+CodeIQの課題への解き方を説明しつつ、自分のRuby力がどれくらい向上したのかをプレゼンされました。
 
 ### LT from [@kenzan100](https://twitter.com/kenzan100)さん
+
+NYの[recurse center](https://www.recurse.com/)で取り組んだ"retreat"が良かったという話を中心に、日本語でLispを書ける [Japalisp](http://kenzan100.hatenadiary.jp/entry/2015/07/03/030718)の紹介や、主催されている[独学道場](http://www.dokugaku.io/)の紹介をしていただきました。
 
 ### Docker 基本のおさらい2 / Compose Swarm Machine をためした話 from [@nk_ngzm](https://twitter.com/nk_ngzm)さん
 
