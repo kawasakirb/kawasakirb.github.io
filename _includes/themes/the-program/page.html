@@ -11,6 +11,9 @@
 
 			<div class="bd">
 				<div class="entry-content">
+				  {{ if page.icon }}
+  				  <img src={{ page.icon }} width=240px style="float: right;"/>
+  				{{ end }}
 					{{ content }}
 				</div><!-- entry-content -->
 			</div><!-- bd -->
