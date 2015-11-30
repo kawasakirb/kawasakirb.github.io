@@ -151,7 +151,7 @@ MySweets::Cake # ここでrequireされる。
 
 <iframe src="http://nbviewer.ipython.org/github/kawasakirb/meetups/blob/master/pruby/kawasakirb030.ipynb" width="100%" height="400px"></iframe>
 
-[別タブで開く](http://nbviewer.ipython.org/github/kawasakirb/meetups/blob/master/pruby/kawasakirb030.ipynb)
+[別タブで開く](https://github.com/kawasakirb/meetups/blob/master/pruby/kawasakirb030.ipynb)
 
 ## セッション
 
