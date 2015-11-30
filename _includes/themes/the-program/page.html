@@ -11,9 +11,9 @@
 
 			<div class="bd">
 				<div class="entry-content">
-				  {{ if page.icon }}
-  				  <img src={{ page.icon }} width=180px style="float: right;"/>
-  				{{ endif }}
+				  {% if page.icon %}
+  				  <img src="{{ page.icon }}" width=180px style="float: right;"/>
+  				{% endif %}
 					{{ content }}
 				</div><!-- entry-content -->
 			</div><!-- bd -->
