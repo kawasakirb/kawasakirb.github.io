@@ -16,8 +16,8 @@
     {% if site.JB.ASSET_PATH %}
       {% assign ASSET_PATH = site.JB.ASSET_PATH %}
     {% else %}
-      {% if page.theme.name and page.theme.name != '' %}
-        {% assign THEME_NAME = page.theme.name %}
+      {% if layout.theme.name and layout.theme.name != '' %}
+        {% assign THEME_NAME = layout.theme.name %}
       {% else %}
         {% assign THEME_NAME = site.JB.theme.name %}
       {% endif %}
