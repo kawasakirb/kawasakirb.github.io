@@ -135,7 +135,7 @@ pattern === '03-1234-5678' # => false
 ### THETA Sを使った360度ライブ配信 from [@youkinjoh](https://twitter.com/youkinjoh)
 
 7/1の川崎市民の日にあるミューザの日で展示する予定の、[THETA S](https://theta360.com/ja/about/theta/s.html)を使った360度ライブ配信の話をされ、  
-WebGLを使ったウェブブラウザ上での全方位映像の配信と、Nexus7を使ったVRのデモが行われました。  
+WebGLを使ったウェブブラウザ上での全方位映像の配信と、Nexus5Xを使ったVRのデモが行われました。  
 なお実装は全てJSで行われているとのことです。
 
 ### Twitterのリストを管理しやすいツールを作った話 from [@ryonext](https://twitter.com/ryonext)
