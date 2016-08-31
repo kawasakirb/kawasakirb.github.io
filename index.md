@@ -13,7 +13,7 @@ Kawasaki.rbは川崎周辺のRuby技術者たちが集まり、Rubyに関する�
 毎月第4水曜日に川崎駅近辺で活動しています。
 
 過去の開催情報は[ARCHIVE]({{ site.url }}/archive.html)をご覧ください。
-古い開催の模様は[blog記事](http://chezou.wordpress.com/tag/kawasaki-rb/)にまとめてありますので、ご参照ください。
+古い開催の模様は[blog記事](http://chezou.hatenablog.com/archive/category/Ruby)にまとめてありますので、ご参照ください。
 
 # EVENTS
 
@@ -21,12 +21,10 @@ Kawasaki.rbは川崎周辺のRuby技術者たちが集まり、Rubyに関する�
 また、Facebook groupやtwitter, google groupでも開催の案内をします。
 興味のある方はフォロー/グループ参加をお願いします。
 
+- [Slack](http://kawasakirb-slackin.herokuapp.com/)
 - [Facebook Group](https://www.facebook.com/groups/258704250945432/)
 - [Twitter](https://twitter.com/kawasakirb)
 - [Google group](https://groups.google.com/forum/#!forum/kawasakirb)
-
-また、idobataも試験的に使い始めています。一緒に雑談しましょう。
-ルームは[こちら](https://idobata.io/organizations/kawasakirb/rooms/waiwai/join_request/72b8d2c9-cf57-43f0-97b0-778a9c6119d0)
 
 ### MISC
 - 発起人: [@chezou](https://twitter.com/chezou)
