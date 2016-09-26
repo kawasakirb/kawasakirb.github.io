@@ -31,7 +31,7 @@ pattern === '080-1234-5678 (mobile)' # => false
 lines = "1234\nabcd"
 
 /\A\d+\z/ === lines # => false
-/\^\d+\$/ === lines # => true (1行目でマッチする)
+/^\d+$/ === lines # => true (1行目でマッチする)
 {% endhighlight %}
 
 # 5-3-5 グルーピングと後方参照/部分式呼び出し
