@@ -16,7 +16,7 @@ Kawasaki.rb #40以降の開催情報は[Medium](https://medium.com/kawasakirb)�
 \#39までの開催情報は以下にまとめてあります。
 
 - \#012〜#039: [ARCHIVEページ]({{ site.url }}/archive.html)
-- \#011以前: [blog記事](http://chezou.hatenablog.com/archive/category/Ruby)
+- \#011以前: [blog記事](https://chezo.uno/categories/ruby/)
 
 # EVENTS
 
