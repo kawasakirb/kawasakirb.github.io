@@ -4,7 +4,7 @@ sudo: false
 install:
   - bundle install
 rvm:
-  - 2.2.2
+  - 2.7.1
 before_script: "bundle show"
 script: "bundle exec jekyll build"
 
