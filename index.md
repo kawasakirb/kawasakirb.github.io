@@ -10,6 +10,9 @@ tagline: Supporting tagline
 Kawasaki.rbは川崎周辺のRuby技術者たちが集まり、Rubyに関する何かをする地域Rubyistコミュニティです。
 最近は、パーフェクトRubyの読書会を中心に開催しています。
 
+- [Slack](https://join.slack.com/t/kawasakirb/shared_invite/zt-65p74che-9ZFoHZXST1QsK3X2vS7EvA)
+- [Discord](https://discord.gg/EaymPdG)
+
 毎月第4水曜日に川崎駅近辺で活動しています。
 
 Kawasaki.rb #40以降の開催情報は[Medium](https://medium.com/kawasakirb)をご覧ください。
